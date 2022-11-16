@@ -1,0 +1,19 @@
+.video{
+  position: relative;
+  width: 100%;
+  height: 533px;
+  align-self: center;
+  margin:0;
+  border: 1px solid transparent;
+}
+
+.video__iframes{
+  z-index: 3;
+  display: flex;
+  position:relative;
+  width: 1050px;
+  height: 316px;
+  margin: auto;
+  justify-content:space-between;
+  margin-top: 50px;
+}

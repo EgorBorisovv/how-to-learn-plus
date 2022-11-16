@@ -8,7 +8,6 @@
 }
 .logo{
   position: absolute;
-  background-image: url(/images/logo_place_header.svg);
   margin-top:31px;
   margin-left:64px;
   display: flex;

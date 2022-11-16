@@ -5,6 +5,7 @@
   min-height: 290px;
   background: #1D1D1D;
   align-self: center;
+  overflow: hidden;
 }
 .footer_columns{
   display: flex;
@@ -34,7 +35,6 @@
   height: 100%;
 }
 .logo_dark{
-  background-image: url(/images/logo_place_footer.svg);
   margin-top:4px;
   margin-left:0px;
 }

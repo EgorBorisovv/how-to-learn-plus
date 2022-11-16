@@ -5,7 +5,8 @@
   height: 843px;
   background: #F2F2F2;
   align-self: center;
-  border: 1px solid transparent;
+  /* border: 1px solid transparent; */
+  overflow: hidden;
 }
 .feyman__image{
   position: absolute;

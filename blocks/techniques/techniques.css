@@ -5,6 +5,7 @@
   width: 100%;
   min-height: 1095px;
   align-self: center;
+  /* overflow: hidden; */
 }
 .section-title{
   display: flex;
@@ -18,10 +19,11 @@
   line-height: 115%;
   text-align: center;
   color: #000000;
+  justify-content: center;
   margin: auto;
   margin-top:100px;
   margin-bottom:0;
-  justify-content: center;
+
 }
 .section-subtitle{
   position: relative;
@@ -80,6 +82,7 @@
   flex-direction: column;
   position: relative;
   width: 240px;
+  height: 872px;
 }
 .cards{
   position: relative;
@@ -87,7 +90,11 @@
   flex-direction: row;
   width:920px ;
   min-height:872px;
-  margin:auto;
+  margin:0 auto;
   justify-content: space-between;
+
 }
+/* *{
+  border: 1px solid red;
+} */
 

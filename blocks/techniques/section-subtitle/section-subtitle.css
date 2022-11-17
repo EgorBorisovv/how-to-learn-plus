@@ -1,0 +1,17 @@
+.section-subtitle{
+  margin: 0;
+  position: relative;
+  min-width: 700px;
+  min-height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size:24px;
+  line-height: 142%;
+  text-align: center;
+  color: #000000;
+  margin: auto;
+  margin-bottom: 0;
+  margin-top:20px;
+  justify-content: center;
+}

@@ -1,0 +1,12 @@
+.footer__author{
+  margin:0;
+  width: 174px;
+  min-height: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height:25px;
+  color: #FFFFFF;
+  margin-top:214px;
+}

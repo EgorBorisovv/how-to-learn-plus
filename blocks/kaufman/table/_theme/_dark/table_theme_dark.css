@@ -1,0 +1,11 @@
+.table_theme_dark{
+  margin: 0;
+  display: flex;
+  position: relative;
+  margin: auto;
+  margin-top:0px;
+  width: 1100px;
+  min-height:430px;
+  justify-content: space-between;
+  color: #ffffff;
+}

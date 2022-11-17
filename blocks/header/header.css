@@ -1,75 +1,32 @@
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
 .header {
   position: relative;
   min-height:600px;
   max-height: 756px;
   background: #F2F2F2;
-  width: 100%;
+  min-width: 1100px;
+  max-width: 1600px;
   overflow: hidden;
+  margin: 0;
 }
 .logo{
+  margin: 0;
   position: absolute;
-  margin-top:31px;
-  margin-left:64px;
+  top:31px;
+  left:64px;
   display: flex;
   flex: none;
   width: 228px;
-  height: 30px;
+  min-height: 30px;
   align-self: start;
 }
-.header__title{
-  z-index: 3;
-  position: relative;
-  width: 730px;
-  min-height: 192px;
-  left: 64px;
-  margin-top:193px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 600;
-  font-size: 102px;
-  line-height: 94%;
-  color: #000000;
-  object-fit: cover;
-  justify-content: space-around;
-}
-.header__subtitle{
-  z-index: 2;
-  position: relative;
-  width: 388px;
-  min-height: 75px;
-  margin-left: 64px;
-  margin-top: 149px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 139%;
-  color: #000000;
-  margin-bottom: 30px;
-
-}
 .link{
+  margin: 0;
   text-decoration: none;
   color:#2F80ED;
-}
-.header_main-illustration{
-  padding: 0;
-  z-index:1;
-  position: absolute;
-  width:765px;
-  height:608px;
-  right:0;
-  bottom:0;
-}
-.header__square-pic {
-  position: absolute;
-  right:0;
-  top:64px;
-  height: 568px;
-  width: 568px;
-  background: #2F80ED;
-  z-index:0;
-  animation: rotate linear infinite 20s;
 }
 @keyframes rotate{
   from{

@@ -1,0 +1,14 @@
+.history{
+  margin: 0;
+  position: relative;
+  width: 175px;
+  min-height: 44px;
+  margin-left:144px;
+  margin-top: 160px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  color: #2F80ED;
+}

@@ -1,0 +1,16 @@
+.header__subtitle{
+  margin: 0;
+  z-index: 2;
+  position: relative;
+  width: 388px;
+  min-height: 75px;
+  margin-left: 64px;
+  margin-top: 149px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 139%;
+  color: #000000;
+  margin-bottom: 30px;
+}

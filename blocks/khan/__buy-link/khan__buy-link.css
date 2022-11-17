@@ -1,0 +1,11 @@
+.khan__buy-link{
+  margin:0;
+  min-width: 223px;
+  min-height: 42px;
+  margin-left:48px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height:140%;
+}

@@ -1,0 +1,13 @@
+.table__text_theme_dark{
+  margin: 0;
+  position:relative;
+  width: 200px;
+  min-height: 66px;
+  margin-top:20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  color: #FFFFFF;
+}

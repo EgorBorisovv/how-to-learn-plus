@@ -1,0 +1,12 @@
+.khan__quote{
+  margin:0;
+  width: 790px;
+  min-height: 170px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height:142%;
+  color: #000000;
+  margin-top: 50px;
+}

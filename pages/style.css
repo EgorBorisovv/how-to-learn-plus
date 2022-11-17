@@ -1,13 +1,16 @@
 @import url(../vendor/normalize.css);
-@font-face{
-  src:url(fonts/Inter-Regular.ttf) format('truetype');
-  font-family:'Inter', 'Arial', sans-serif;
-}
-@font-face {
-  src: url(fonts/Inter-Bold.ttf) format('truetype');
-  font-family: 'Inter','Arial', sans-serif;
-  font-style:'Boild';
-}
+@import url(../vendor/fonts.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/footer/footer.css);
 .page {
   display: flex;
   flex-wrap:wrap;
@@ -16,6 +19,7 @@
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Inter', Arial, sans-serif;
+  justify-content: center;
 }
 .link{
   text-decoration: none;
@@ -23,4 +27,7 @@
 .link:hover{
   opacity: 0.3;;
   transition:0.35s;
+}
+.theme_dark{
+  color: #FFFFFF;
 }

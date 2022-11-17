@@ -1,0 +1,13 @@
+.two-columns__brief{
+  margin: 0;
+  top:-23px;
+  position: relative;
+  display: block;
+  width: 175px;
+  min-height:44px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+}

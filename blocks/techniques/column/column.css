@@ -1,0 +1,8 @@
+.column{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 240px;
+  min-height: 872px;
+}

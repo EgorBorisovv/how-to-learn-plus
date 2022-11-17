@@ -1,76 +1,21 @@
+@import url(./__triangle/kaufman__triangle.css);
+@import url(./section-title/_theme/_dark/section-title_theme_dark.css);
+@import url(./section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
+@import url(./table/_theme/_dark/table_theme_dark.css);
+@import url(./table/__heading/_theme/_dark/table__heading_theme_dark.css);
+@import url(./table/__text/_theme/_dark/table__text_theme_dark.css);
+@import url(./table/__cell/_theme/_dark/table__cell_theme_dark.css);
 .kaufman{
+  margin: 0;
   display: flex;
   flex-direction:column;
   position: relative;
-  width: 100%;
-  height: 733px;
-  background: #1D1D1D;
+  min-width: 1100px;
+  max-width: 1600px;
+  min-height: 733px;
+  background:#1f1f1f;
   align-self: center;
   overflow: hidden;
-}
-.kaufman__triangle{
-  background-image: url(/images/kaufman-triangle.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  width: 877px;
-  height: 877px;
-  right:-210px;
-  transform: rotate(-15deg);
-  animation: rotate-kaufman__triangle linear infinite 20s;
-
-}
-
-.theme_dark{
-  color: #FFFFFF;
-}
-
-.kaufman_table{
-  display: flex;
-  position: relative;
-  margin: auto;
-  margin-top:0px;
-  width: 1100px;
-  min-height:430px;
-  justify-content: space-between;
-}
-.column_kaufman{
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  width:200px;
-}
-.table__heading_theme_dark{
-  position:relative;
-  min-width: 200px;
-  min-height: 27px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 115%;
-  color: #FFFFFF;
-  margin: 0;
-  margin-top:80px;
-}
-.table__text_theme_dark{
-  position:relative;
-  width: 200px;
-  min-height: 66px;
-  margin-top:20px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 120%;
-  color: #FFFFFF;
-}
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-
 }
 @keyframes rotate-kaufman__triangle{
   from{
@@ -82,3 +27,4 @@
     transition: transform 20s;
   }
 }
+

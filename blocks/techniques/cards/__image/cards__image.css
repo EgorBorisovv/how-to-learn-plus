@@ -1,9 +1,9 @@
 .cards__image{
   margin: 0;
   position: relative;
-  width: 160px;
+  max-width: 160px;
   min-height: 160px;
-  left: 40px;
+  margin-left: 40px;
   margin-top: 60px;
   background-size: contain;
   border-radius: 100px;

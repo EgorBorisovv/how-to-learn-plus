@@ -1,7 +1,7 @@
 .table__text_theme_dark{
   margin: 0;
   position:relative;
-  width: 200px;
+  max-width: 200px;
   min-height: 66px;
   margin-top:20px;
   font-family: 'Inter';

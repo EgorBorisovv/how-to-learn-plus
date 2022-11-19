@@ -1,14 +1,16 @@
 .feynman__link{
-  margin: 0;
-  align-self: start;
-  position:relative;
-  width: 242px;
+  z-index:2;
+  margin:0;
+  padding:0;
+  position:absolute;
+  max-width: 242px;
   min-height: 51px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
   line-height:142%;
-  left:1230px;
-  top:-51px;
+  top:445px;
+  right:48px;
+  box-sizing: border-box;
 }

@@ -1,6 +1,6 @@
 .khan__quote-author{
   margin:0;
-  width: 790px;
+  max-width: 790px;
   min-height: 27px;
   margin-top:36px;
   font-family: 'Inter';

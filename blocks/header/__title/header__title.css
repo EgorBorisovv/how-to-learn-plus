@@ -2,8 +2,8 @@
   margin: 0;
   z-index: 3;
   position: relative;
-  width: 730px;
-  left: 64px;
+  max-width: 730px;
+  margin-left: 64px;
   min-height: 192px;
   margin-top:193px;
   font-family: 'Inter';

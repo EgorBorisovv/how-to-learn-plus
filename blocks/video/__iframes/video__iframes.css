@@ -2,9 +2,10 @@
   z-index: 3;
   display: flex;
   position:relative;
-  width: 1050px;
+  max-width: 1050px;
   min-height: 316px;
   margin: 0 auto;
   justify-content:space-between;
   margin-top: 50px;
+  box-sizing: border-box;
 }

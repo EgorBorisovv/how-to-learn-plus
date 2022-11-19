@@ -2,5 +2,5 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 106px;
+  max-width: 106px;
 }

@@ -1,11 +1,10 @@
-@import url(./history/history.css);
-@import url(./__text/oakley__text.css);
 .oakley{
-  display: flex;
-  min-width: 1100px;
-  max-width: 1600px;
+  margin:0 auto;
+  position: relative;
+  display:flex;
+  min-width:1100px;
+  max-width:1600px;
   min-height: 528px;
   background: #F2F2F2;
-  margin:0;
   overflow: hidden;
 }

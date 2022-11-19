@@ -2,6 +2,9 @@
   margin: 0;
   display: flex;
   position: relative;
-  width:270px;
+  /* max-width:270px; */
   min-height:38px;
+  box-sizing: border-box;
+  align-self: start;
+  justify-content:space-between;
 }

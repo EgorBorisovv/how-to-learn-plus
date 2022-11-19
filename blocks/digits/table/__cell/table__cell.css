@@ -4,5 +4,6 @@
   margin-top: 60px;
   position: relative;
   height: 134px;
-  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }

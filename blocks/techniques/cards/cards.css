@@ -3,8 +3,8 @@
   position: relative;
   display: flex;
   flex-direction: row;
-  max-width:920px ;
-  min-height:872px;
-  margin:0 auto;
+  min-width:920px ;
+  height:872px;
+  margin:auto;
   justify-content: space-between;
 }

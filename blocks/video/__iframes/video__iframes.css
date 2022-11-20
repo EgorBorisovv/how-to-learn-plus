@@ -1,11 +1,11 @@
 .video__iframes{
   z-index: 3;
-  display: flex;
+  flex-wrap: wrap;
   position:relative;
   max-width: 1050px;
   min-height: 316px;
   margin: 0 auto;
   justify-content:space-between;
-  margin-top: 50px;
+  margin-top:50px;
   box-sizing: border-box;
 }

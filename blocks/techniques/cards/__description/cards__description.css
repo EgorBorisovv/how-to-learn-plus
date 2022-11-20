@@ -2,9 +2,9 @@
   margin: 0;
   position:relative;
   max-width:100%;
-  min-height: 115px;
+  height: 115px;
   margin-top:16px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;

@@ -2,8 +2,9 @@
   margin: 0;
   flex-direction:column;
   position: relative;
-  height: 100%;
-  max-width: 921px;
+  min-width: 784px;
+  width:80%;
+  height:100%;
   margin-left:56px;
   margin-top: -31px;
 }

@@ -3,8 +3,8 @@
   margin: 0;
   position: relative;
   display: block;
-  max-width: 175px;
-  min-height:44px;
+  width: 175px;
+  max-height:44px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;

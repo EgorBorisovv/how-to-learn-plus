@@ -2,11 +2,11 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   min-width: 1100px;
   max-width: 1600px;
   min-height: 1095px;
   align-self: center;
-  margin: 0;
   overflow: hidden;
   box-sizing: border-box;
 }

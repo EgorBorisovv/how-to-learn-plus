@@ -9,16 +9,6 @@
   width:568px;
   background: #2F80ED;
   z-index:0;
-  animation: rotate linear infinite 20s;
   box-sizing: border-box;
 }
-@keyframes rotate{
-  from{
-    transform: rotate(0deg);
-    transition: transform 20s;
-  }
-  to{
-    transform: rotate(360deg);
-    transition: transform 20s;
-  }
-}
+

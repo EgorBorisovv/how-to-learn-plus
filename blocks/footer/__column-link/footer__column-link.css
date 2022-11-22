@@ -3,7 +3,6 @@
   display: flex;
   position:relative;
   width:100%;
-  min-height: 18px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -12,3 +11,7 @@
   color: #FFFFFF;
   margin-top:10px;
 }
+.footer__column-link:first-of-type{
+  margin-top:0;
+}
+

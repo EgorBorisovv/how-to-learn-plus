@@ -2,7 +2,6 @@
   position: relative;
   min-width: 1100px;
   max-width: 1600px;
-  min-height: 510px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

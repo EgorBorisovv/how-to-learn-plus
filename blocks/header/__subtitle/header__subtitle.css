@@ -5,12 +5,11 @@
   max-width: 388px;
   min-height: 75px;
   left: 64px;
-  bottom:30px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 139%;
+  line-height:25px;
   color: #000000;
-  margin-bottom: 30px;
+  bottom: 30px;
 }

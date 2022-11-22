@@ -1,0 +1,9 @@
+.two-columns__paragraph{
+  margin: 0;
+  position: relative;
+  margin-top:30px;
+  color: #000000;
+}
+.two-columns__paragraph:first-of-type{
+  margin:0;
+}

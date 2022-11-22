@@ -4,7 +4,5 @@
   flex-wrap:wrap;
   position: relative;
   width:270px;
-  min-height:38px;
   box-sizing: border-box;
-  align-self: start;
 }

@@ -3,12 +3,11 @@
   flex-wrap: wrap;
   margin: 0;
   position: absolute;
-  right:0;
-  top:64px;
-  height:568px;
-  width:568px;
+  right: 0;
+  top: 64px;
+  height: 568px;
+  width: 568px;
   background: #2F80ED;
-  z-index:0;
+  z-index: 0;
   box-sizing: border-box;
 }
-

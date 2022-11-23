@@ -1,13 +1,9 @@
-.resources{
-  margin:0 auto;
+.resources {
+  margin: 0 auto;
   flex-direction: column;
   position: relative;
   min-width: 1100px;
   max-width: 1600px;
-  min-height: 558px;
   align-self: center;
-  overflow: hidden;
   box-sizing: border-box;
 }
-
-

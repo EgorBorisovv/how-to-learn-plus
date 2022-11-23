@@ -1,13 +1,14 @@
-.video__iframes{
+.video__iframes {
   display: flex;
   z-index: 3;
   flex-wrap: wrap;
-  position:relative;
-  margin:0 auto;
-  justify-content:center;
-  margin-top:50px;
+  position: relative;
+  margin: 0 auto;
+  justify-content: center;
+  margin-top: 50px;
   box-sizing: border-box;
   align-items: center;
-  padding-block:20px;
-  margin-bottom:-72px;
+  padding-block: 20px;
+  margin-bottom: -50px;
+  padding: 0;
 }

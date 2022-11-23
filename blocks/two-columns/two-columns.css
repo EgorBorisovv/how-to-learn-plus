@@ -1,10 +1,16 @@
-.two-columns{
-  margin:0 auto;
+.two-columns {
+  display: flex;
+  margin: 0 auto;
   position: relative;
-  display:flex;
-  flex-direction:row;
+  display: flex;
+  flex-direction: row;
   margin-top: 100px;
   width: 80%;
-  margin-bottom:100px;
+  justify-content: space-between;
+  margin-bottom: 100px;
 }
 
+.two-columns:last-of-type {
+  margin-top: 160px;
+  margin-bottom: 0;
+}

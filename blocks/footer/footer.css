@@ -1,10 +1,9 @@
-.footer{
+.footer {
   display: flex;
-  margin:0 auto;
-  position:relative;
-  min-height:350px;
-  background:#1f1f1f;
+  margin: 0 auto;
+  position: relative;
+  min-height: 350px;
+  background: #1f1f1f;
   align-self: center;
   box-sizing: border-box;
 }
-

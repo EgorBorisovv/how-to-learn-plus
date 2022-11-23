@@ -1,18 +1,18 @@
-.section-title{
+.section-title {
   margin: 0;
   display: flex;
   position: relative;
-  max-width: 700px;
+  width: 60%;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 60px;
-  line-height: 115%;
+  line-height: 1.15;
   text-align: center;
   color: #000000;
   justify-content: center;
   margin: auto;
-  margin-top:100px;
-  margin-bottom:0;
+  margin-top: 100px;
+  margin-bottom: 0;
   align-items: center;
 }

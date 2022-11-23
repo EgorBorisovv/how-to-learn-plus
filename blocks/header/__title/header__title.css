@@ -1,4 +1,4 @@
-.header__title{
+.header__title {
   margin: 0;
   z-index: 3;
   position: relative;
@@ -8,7 +8,7 @@
   font-style: normal;
   font-weight: 600;
   font-size: 102px;
-  line-height: 94%;
+  line-height: 96px;
   color: #000000;
-  align-self:center;
+  align-self: center;
 }

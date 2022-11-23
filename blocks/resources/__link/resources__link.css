@@ -1,8 +1,8 @@
-.resources__link{
+.resources__link {
   margin: 0;
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   position: relative;
-  width:270px;
+  width: 270px;
   box-sizing: border-box;
 }

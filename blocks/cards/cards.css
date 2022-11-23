@@ -1,9 +1,9 @@
-.cards{
+.cards {
   position: relative;
   display: flex;
   flex-direction: row;
-  width:920px ;
-  margin:0 auto;
-  justify-content:space-between;
+  width: 920px;
+  margin: 0 auto;
+  justify-content: space-between;
   flex-wrap: wrap;
 }

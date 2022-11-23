@@ -1,15 +1,14 @@
-.header__subtitle{
+.header__subtitle {
   margin: 0;
   z-index: 2;
-  position:absolute;
+  position: absolute;
   max-width: 388px;
-  min-height: 75px;
   left: 64px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height:25px;
+  line-height: 25px;
   color: #000000;
   bottom: 30px;
 }

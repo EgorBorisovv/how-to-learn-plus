@@ -1,11 +1,10 @@
-.footer__author{
-  margin:0;
+.footer__author {
+  margin: 0;
   max-width: 174px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height:25px;
+  line-height: 25px;
   color: #FFFFFF;
-  margin-top:214px;
 }

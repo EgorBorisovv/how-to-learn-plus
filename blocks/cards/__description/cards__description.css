@@ -1,14 +1,14 @@
-.cards__description{
+.cards__description {
   margin: 0;
-  position:relative;
-  max-width:100%;
+  position: relative;
+  max-width: 100%;
   height: 115px;
-  margin-top:16px;
+  margin-top: 16px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 128%;
+  line-height: 23px;
   text-align: center;
   color: #000000;
 }

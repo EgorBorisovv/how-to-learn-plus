@@ -2,15 +2,8 @@
   display: flex;
   margin: 0 auto;
   position: relative;
-  display: flex;
   flex-direction: row;
-  margin-top: 100px;
   width: 80%;
   justify-content: space-between;
-  margin-bottom: 100px;
 }
 
-.two-columns:last-of-type {
-  margin-top: 160px;
-  margin-bottom: 0;
-}
